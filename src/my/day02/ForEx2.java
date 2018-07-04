@@ -4,13 +4,13 @@ public class ForEx2 {
 
 	public static void main(String[] args) {
 		
-		System.out.println("1¿¡¼­ 10±îÁöÀÇ ÇÕÀ» ±¸ÇÏ¼¼¿ä:");
+		System.out.println("1ë¶€í„° 10ê¹Œì§€ì˜ ë§ì…ˆì˜ í•©ì„ êµ¬í•˜ì‹œì˜¤:");
 		int sum = 0;
 		for(int i = 1; i <= 10; i++)
 		{
 			sum += i;
 		}
-		System.out.println("ÇÕ:" +sum);
+		System.out.println(":" +sum);
 	}
 
 }
